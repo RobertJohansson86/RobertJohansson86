@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hej! Jag heter Robert 👋
 
-<!--
-**RobertJohansson86/RobertJohansson86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Jag studerar Systemutveckling .NET på YH Akademin och kombinerar tekniskt intresse med kreativ problemlösning och ett öga för användarupplevelse och design.
 
-Here are some ideas to get you started:
+Just nu utvecklar jag mina kunskaper inom C#, .NET, databaser och frontendutveckling genom skolprojekt och egna projekt.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Min tech stack
+Språk & frontend: C#, SQL, HTML, CSS, JavaScript
+Backend & .NET: .NET, ASP.NET Core MVC, Razor Pages, Entity Framework Core
+Databaser: SQL Server, Azure SQL
+Verktyg & övrigt: Git, GitHub, Visual Studio, Azure, REST API
+
+💻 Några av mina projekt
+Forum: Ett forum byggt med ASP.NET Core MVC, Entity Framework Core och SQL Server.
+Länk GitHub: https://github.com/HenryBrandt-lgtm/BlixthackByMordor
+
+Portfolio: En personlig webbplats byggd med HTML, CSS och JavaScript, med integrationer mot externa API.
+Url: https://robertjohansson.dev/
+
+Zoo: En webbplats byggd med HTML och CSS, med fokus på design och användarupplevelse.
+Live Demo: https://robertjohansson86.github.io/Zoo/
+Länk Github: https://github.com/RobertJohansson86/Zoo
+
+🎯 Utanför kodandet
+
+Träning, hockey och familj.
+
+📫 Hitta mig här
+Portfolio: roberjohansson.dev
+LinkedIn: www.linkedin.com/in/robert-johansson86
+
+Jag söker LIA inom .NET-utveckling i Göteborg våren 2027.
