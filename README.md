@@ -18,7 +18,9 @@ Portfolio: En personlig webbplats byggd med HTML, CSS och JavaScript, med integr
 Url: https://robertjohansson.dev/
 
 Zoo: En webbplats byggd med HTML och CSS, med fokus på design och användarupplevelse.
+
 Live Demo: https://robertjohansson86.github.io/Zoo/
+
 Länk Github: https://github.com/RobertJohansson86/Zoo
 
 🎯 Utanför kodandet
