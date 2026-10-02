@@ -12,15 +12,16 @@ Verktyg & övrigt: Git, GitHub, Visual Studio, Azure, REST API
 
 💻 Några av mina projekt
 Forum: Ett forum byggt med ASP.NET Core MVC, Entity Framework Core och SQL Server.
+
 Länk GitHub: https://github.com/HenryBrandt-lgtm/BlixthackByMordor
 
 Portfolio: En personlig webbplats byggd med HTML, CSS och JavaScript, med integrationer mot externa API.
+
 Url: https://robertjohansson.dev/
 
 Zoo: En webbplats byggd med HTML och CSS, med fokus på design och användarupplevelse.
 
 Live Demo: https://robertjohansson86.github.io/Zoo/
-
 Länk Github: https://github.com/RobertJohansson86/Zoo
 
 🎯 Utanför kodandet
