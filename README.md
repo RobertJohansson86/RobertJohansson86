@@ -24,7 +24,7 @@ Just nu utvecklar jag mina kunskaper inom C#, .NET, databaser och frontendutveck
 
 ### 🎯 Utanför kodandet
 
-Träning, hockey och familj.
+Träning, se hockey och om tid finnes lite gaming.
 
 ### 📫 Hitta mig här
 
